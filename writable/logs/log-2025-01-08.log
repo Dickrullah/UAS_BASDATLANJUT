@@ -1,0 +1,698 @@
+CRITICAL - 2025-01-08 11:39:51 --> ErrorException: Undefined property: App\Controllers\Posts::$PostsModel
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 11.
+ 1 APPPATH\Controllers\Posts.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$PostsModel', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:16 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:16 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:17 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:17 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:17 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:17 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:17 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:41:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:13 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:43:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:06 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:06 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:49:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:56:34 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:15 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:16 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:17 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:17 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:17 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:18 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:38 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 11:57:46 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:03:33 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:23 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:23 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:23 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:24 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:24 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:24 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:04:36 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:06:33 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:06:33 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:06:33 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:06:33 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:06:33 --> Error: Class "App\Controllers\Post_model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 12:11:33 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:56:01 --> Error: Class "App\Controllers\Post_Model" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:56:18 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:04 --> ErrorException: Undefined property: App\Controllers\Posts::$postModel
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$postModel', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:26 --> ErrorException: Undefined property: App\Controllers\Posts::$Post_model
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post_model', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:26 --> ErrorException: Undefined property: App\Controllers\Posts::$Post_model
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post_model', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:27 --> ErrorException: Undefined property: App\Controllers\Posts::$Post_model
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post_model', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:36 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:37 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:37 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:38 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:38 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 13:59:38 --> ErrorException: Undefined property: App\Controllers\Posts::$Post
+[Method: GET, Route: posts]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 APPPATH\Controllers\Posts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$Post', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:05:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:05:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:05:14 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Posts.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Posts->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:08:36 --> Error: Call to undefined function App\Controllers\returnview()
+[Method: POST, Route: posts/store]
+in APPPATH\Controllers\Posts.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->store()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:08:55 --> ErrorException: Undefined variable $post
+[Method: POST, Route: posts/store]
+in APPPATH\Views\post\edit.php on line 27.
+ 1 APPPATH\Views\post\edit.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', 'C:\\xampp\\htdocs\\ci4download\\app\\Views\\post\\edit.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4download\\app\\Views\\post\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('post/edit', [], true)
+ 5 APPPATH\Controllers\Posts.php(24): view('post/edit')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:14:14 --> ErrorException: Undefined property: App\Controllers\Posts::$postModel
+[Method: POST, Route: posts/store]
+in APPPATH\Controllers\Posts.php on line 24.
+ 1 APPPATH\Controllers\Posts.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$postModel', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
+CRITICAL - 2025-01-08 14:14:21 --> ErrorException: Undefined property: App\Controllers\Posts::$postModel
+[Method: POST, Route: posts/store]
+in APPPATH\Controllers\Posts.php on line 24.
+ 1 APPPATH\Controllers\Posts.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Posts::$postModel', 'C:\\xampp\\htdocs\\ci4download\\app\\Controllers\\Posts.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Posts->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci4download\\public\\index.php')
